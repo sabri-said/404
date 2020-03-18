@@ -1,0 +1,46 @@
+body {
+
+  margin: unset;
+}
+
+#c-main-container {
+  background-image: url("media/black-hole-wallpaper.jpg");
+  height: 100vh;
+  display: flex;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+
+h1 {
+  position: absolute;
+  top: 12rem;
+  left: 4rem;
+  color: #EDEDED;
+  font-size: 4rem;
+  font-family: Montserrat Subrayada;
+
+}
+
+p {
+  position: absolute;
+  top: 19.5rem;
+  left: 24rem;
+  color: #EDEDED;
+  font-size: 1.5rem;
+
+}
+
+line {
+  stroke: #FFFFFF;
+  stroke-width: 0.2rem;
+}
+
+svg {
+  position: absolute;
+  top: 21rem;
+  left: 24rem;
+  height: 0.1rem;
+  width: 70rem;
+}
